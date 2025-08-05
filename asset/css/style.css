@@ -1,0 +1,114 @@
+.id{
+    display: flex;
+    justify-content: space-between;
+    padding: 8px;
+    color: rgb(243, 132, 7);
+    background-color: rgb(0, 0, 0);
+    font-size: 20px;
+
+}
+.logo{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(220, 215, 215);
+    align-items: center;
+    padding: 8px;
+}
+.log{
+    width: 200px;
+}
+.menu{
+    list-style: none;
+    display: flex;
+    gap: 40px;
+    color: rgb(243, 132, 7);
+    font-size: 23px;
+    font-weight: 800;
+}
+.btn{
+    height: 50px;
+    width: 80px; 
+}
+.full{
+    width: 100%;
+    height: 650px;
+}
+.us{
+    color: rgb(243, 132, 7);
+    text-align: center;
+    font-family: 'Times New Roman', Ti65s, serif;
+    margin-top: 30px;
+}
+.ktm{
+    width: 100%;
+    height: 450px;
+    padding: 8px;
+    margin-top: 10px;
+}
+.new{
+    text-align: justify;
+    margin-top: 10px;
+}
+/* .cir{
+    border-radius: 50%;
+} */
+.arr{
+    color: rgb(243, 132, 7);
+    text-align: center;
+    font-family:'Times New Roman', Times, serif ;
+    margin-top: 30px;
+}
+.avi{
+    color: rgb(243, 132, 7);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 40px;
+}
+.kic{
+    width: 100%;
+    height: 400px;
+    padding: 8px;
+    margin-top: 30px;
+}
+.par{
+    text-align: justify;
+    margin-top: 30px;
+}
+.nav{
+    width: 100%;
+    height: 400px;
+    padding: 8px;
+    margin-top: 30px;
+}
+.exp{
+    color: rgb(243, 132, 7);
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 30px;
+}
+.foot_sec{
+    background-color: rgb(0, 0, 0);
+    margin-top: 30px;
+}
+.sub{
+    width: 90%;
+
+}
+.cls{
+    column-gap: 20px;
+}
+.col{
+    color: white;
+}
+.loe{
+    color:rgb(243, 132, 7) ;
+}
+.dis{
+    display: flex;
+    justify-content: space-between;
+    background-color: grey;
+}
+.sty{
+    color: brown;
+    text-decoration: none;
+}
